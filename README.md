@@ -1,19 +1,19 @@
-# OAuth Spring Boot Google Login
+# 🌐 OAuth Spring Boot Google Login
 
 This project is a Spring Boot application that implements Google OAuth for user authentication. It allows users to log in using their Google accounts.
 
-## Features
+## 🚀 Features
 
-- Google OAuth 2.0 authentication
-- Secure access to user profile information
-- Simple REST API endpoints
+- 🔑 Google OAuth 2.0 authentication
+- 🔒 Secure access to user profile information
+- 📡 Simple REST API endpoints
 
-## Prerequisites
+## 📋 Prerequisites
 
-- Java 11 or higher
-- Maven
-- Spring Boot
-- Google Cloud Console access for setting up OAuth credentials
+- ☕ Java 11 or higher
+- 🔧 Maven
+- 🛠️ Spring Boot
+- 🌐 Google Cloud Console access for setting up OAuth credentials
 
 ### 🔑 Google OAuth Configuration
 
@@ -33,7 +33,7 @@ To set up the project locally, follow these steps:
    ```bash
    https://github.com/lokesh-kumaravel/OauthSpringboot
    
-### Notes
+### 📌 Notes
 - Make sure to replace placeholders like `YOUR_CLIENT_ID`, `YOUR_CLIENT_SECRET`, and `your-username` with your actual values.
 - You may want to add additional sections based on your project requirements, such as examples of API requests, contributions guidelines, or links to related resources.
 
